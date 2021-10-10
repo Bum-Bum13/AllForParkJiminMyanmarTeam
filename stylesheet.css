@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: #fcffa6;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.Title{
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Love{
+    color: #FFADAD;
+    text-align: center;
+    text-shadow:-3px -3px 3px #B5DEFF;
+    font-family: 'Caveat', cursive;
+}
+
+.Letter{
+    color: #FFADAD;
+    text-align: justify;
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.end{
+    color: #FFADAD;
+    text-align: right;
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+}
